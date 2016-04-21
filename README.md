@@ -1,5 +1,4 @@
 # hello-world
-Basic tutorial repository
 
 Hey everyone,
 Corentin here, i'm French and I got MS in materials engineering.
